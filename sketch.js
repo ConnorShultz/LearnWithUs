@@ -5,7 +5,7 @@ let img;
 let bg;
 
 function setup() {
-  bg = loadImage('Assets/Digestive image.jpg');
+  bg = loadImage('Assets/Top-10-Digestive-Issues (1).jpg');
   createCanvas(400, 400);
 
   for (let i = 0; i < 7000; i++) {
